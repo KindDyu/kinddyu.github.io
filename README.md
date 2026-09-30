@@ -9,7 +9,7 @@
 #### [Brave](https://brave.com/)
 **Brave Browser** é um navegador privado por padrão baseado no Chromium, que bloqueia anúncios e rastreadores de forma nativa, oferecendo uma experiência familiar e com alta compatibilidade com sites.
 
-<details>
+<details markdown="block">
 <summary>⚙️ Configuração recomendada do Brave Desktop</summary>
 
 ---
@@ -22,7 +22,7 @@ Brave inclui algumas medidas anti-impressão digital em seu recurso [Escudos](ht
 As opções do Escudo podem ser rebaixadas por site, conforme necessário, mas por padrão recomendo definir o seguinte:
 - [x] Selecione **Agressivo** em _Rastreadores & bloqueio de anúncios_
 
-<details>
+<details markdown="block">
 <summary>⚠️ Usar listas de filtros padrão</summary>
 
 > O Brave permite que você selecione filtros de conteúdo adicionais na página interna `brave://adblock`. Aconselho não usar esse recurso; em vez disso, mantenha as listas de filtros padrão. Usar listas extras fará com que você se destaque de outros usuários do Brave e também poderá aumentar a superfície de ataque se houver uma exploração no Brave e uma regra maliciosa for adicionada a uma das listas que você usa.
@@ -85,7 +85,7 @@ Os recursos Web3 do Brave podem potencialmente aumentar a impressão digital e a
 ---
 </details>
 
-<details>
+<details markdown="block">
 <summary>⚙️ Configuração recomendada do Brave Mobile</summary>
 
 ---
@@ -141,7 +141,7 @@ As opções do Escudo podem ser rebaixadas por site, conforme necessário, mas p
 #### [Firefox](https://firefox.com/)
 **Firefox Browser** é um navegador de código aberto e independente (com seu próprio motor, o Gecko), conhecido por ser altamente personalizável e oferecer um equilíbrio entre privacidade, extensões e uso para o usuário geral.
 
-<details>
+<details markdown="block">
 <summary>⚙️ Configuração recomendada do Firefox</summary>
 
 ---
