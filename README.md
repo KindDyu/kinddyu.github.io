@@ -106,7 +106,7 @@ As opções do Escudo podem ser rebaixadas por site, conforme necessário, mas p
 - [x] Selecione **Bloquear impressões digitais**
 - [x] Selecione **Evite impressões digitais por meio das configurações de idioma**
 
-<details>
+<details markdown="block">
 <summary>⚠️ Usar listas de filtros padrão</summary>
 
 > O Brave permite que você selecione filtros de conteúdo adicionais no menu **Filtragem de conteúdo** ou na página interna `brave://adblock`. Não recomendo o uso desse recurso; em vez disso, mantenha as listas de filtros padrão. O uso de listas adicionais fará com que você se destaque dos demais usuários do Brave e também poderá aumentar a superfície de ataque caso haja uma vulnerabilidade no Brave e uma regra maliciosa seja adicionada a uma das listas que você utiliza.
