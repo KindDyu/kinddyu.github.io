@@ -1,12 +1,12 @@
 <h1><p align="center">Navegadores</p></h1>
 
-#### [Tor Browser](https://www.torproject.org/)
+## [Tor Browser](https://www.torproject.org/)
 **Tor Browser** é um navegador focado em anonimato extremo que utiliza a rede Tor para rotear o tráfego através de múltiplos nós, ocultando o endereço IP e a identidade do usuário de forma muito robusta.
 
-#### [Mullvad Browser](https://mullvad.net/browser)
+## [Mullvad Browser](https://mullvad.net/browser)
 **Mullvad Browser** é uma versão focada em privacidade que importa as tecnologias de "anti-fingerprinting" (anti-impressão digital) do Tor para sua navegação, mas sem o uso da rede Tor, sendo ideal para ser usado com uma VPN ou conexão padrão.
 
-#### [Brave](https://brave.com/)
+## [Brave](https://brave.com/)
 **Brave Browser** é um navegador privado por padrão baseado no Chromium, que bloqueia anúncios e rastreadores de forma nativa, oferecendo uma experiência familiar e com alta compatibilidade com sites.
 
 <details markdown="block">
@@ -138,7 +138,7 @@ As opções do Escudo podem ser rebaixadas por site, conforme necessário, mas p
 ---
 </details>
 
-#### [Firefox](https://firefox.com/)
+## [Firefox](https://firefox.com/)
 **Firefox Browser** é um navegador de código aberto e independente (com seu próprio motor, o Gecko), conhecido por ser altamente personalizável e oferecer um equilíbrio entre privacidade, extensões e uso para o usuário geral.
 
 <details markdown="block">
