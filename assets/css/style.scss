@@ -124,3 +124,30 @@ input[type="checkbox"] {
     margin-top: 2rem;
   }
 }
+
+section {
+  color: #c9d1d9;
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+section p,
+section li,
+section td,
+section th,
+section blockquote {
+  color: #c9d1d9;
+}
+
+section strong,
+section b,
+section h1,
+section h2,
+section h3,
+section h4 {
+  color: #f0f6fc;
+}
+
+section a {
+  color: #58a6ff;
+}
